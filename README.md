@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**nourhammami335/nourhammami335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nour Hammami, a Software Developer and a third-year student in Développement des Systèmes Informatiques at ISET Charguia.
+Passionate about building modern, efficient, and user-focused applications, I enjoy exploring new technologies and improving my skills through real-world projects.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web & mobile development projects
+
+Backend development (Node.js, PHP, Java)
+
+Android apps with Kotlin/Java
+
+🌱 I’m currently learning:
+
+Advanced Android concepts
+
+Clean architecture & software engineering best practices
+
+Cloud & deployment basics (Docker, CI/CD)
