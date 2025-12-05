@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Nour Hammami, a Software Developer and a third-year student in Développement des Systèmes Informatiques at ISET Charguia.
+I'm Nour Hammami, a Software Developer and a third-year student in Information Systems Development at ISET Charguia.
 Passionate about building modern, efficient, and user-focused applications, I enjoy exploring new technologies and improving my skills through real-world projects.
 
 🔭 I’m currently working on:
