@@ -17,4 +17,4 @@ Advanced Android concepts
 
 Clean architecture & software engineering best practices
 
-Cloud & deployment basics (Docker, CI/CD)
+
