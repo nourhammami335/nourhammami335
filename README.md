@@ -69,6 +69,3 @@ Problem-solving • Team collaboration • Adaptability • Critical thinking �
 
 📧 Email • 💼 LinkedIn • 💻 GitHub
 
----
-
-✨ "Always learning, always building — one commit at a time!" ✨
