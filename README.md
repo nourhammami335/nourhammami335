@@ -1,20 +1,74 @@
-Hi there 👋
+Software Developer | Information Systems Engineering Student | Tech Enthusiast
+"Building modern solutions, one line of code at a time."
 
-I'm Nour Hammami, a Software Developer and a third-year student in Information Systems Development at ISET Charguia.
-Passionate about building modern, efficient, and user-focused applications, I enjoy exploring new technologies and improving my skills through real-world projects.
+📧 Email • 💼 LinkedIn • 💻 GitHub
 
-🔭 I’m currently working on:
+---
 
-Web & mobile development projects
+## 🌟 About Me
 
-Backend development (Node.js, PHP, Java)
+I'm Nour Hammami, a Software Developer and third-year student in Information Systems Development at ISET Charguia. Passionate about building modern, efficient, and user-focused applications, I enjoy exploring new technologies and turning real-world problems into scalable digital solutions.
 
-Android apps with Kotlin/Java
+---
 
-🌱 I’m currently learning:
+## 🎯 What Drives Me
 
-Advanced Android concepts
+💻 Building scalable and efficient systems  
+🚀 Exploring modern technologies and frameworks  
+📱 Creating user-centric web & mobile experiences  
+📚 Continuous learning and innovation  
 
-Clean architecture & software engineering best practices
+---
+
+## 🎓 Academic Journey
+
+| 🚀 Information Systems Development | 🎯 Software Engineering (In Progress) |
+|-----------------------------------|----------------------------------------|
+| Institution: ISET Charguia (3rd Year) | Institution: (Next step) |
+| Focus: Full-stack development | Focus: Advanced software architecture |
+| Web & mobile apps • Database design • Backend development | System design • Clean architecture • Best practices |
+
+---
+
+## 💼 Technical Stack
+
+### 🎨 Frontend
+HTML • CSS • JavaScript • TypeScript • React • Angular • Bootstrap
+
+### ⚙️ Backend
+Node.js • PHP • Java • Spring Boot • Laravel • Express.js
+
+### 📱 Mobile
+Android (Kotlin • Java)
+
+### 🗄️ Databases & Tools
+MySQL • PostgreSQL • MongoDB • Firebase • Git • GitHub • Postman • VS Code • Android Studio
+
+---
+
+## 🤝 Soft Skills
+
+Problem-solving • Team collaboration • Adaptability • Critical thinking • Time management • Attention to detail • Communication • Curiosity & self-learning
+
+---
+
+## 🌱 Currently Learning
+
+🧠 Advanced Android concepts  
+🏗️ Clean architecture  
+✅ Software engineering best practices  
+🔐 API security & performance optimization  
+📐 Design patterns
 
 
+---
+
+## 🤝 Let's Connect
+
+💬 I'm always open to discussing new projects, creative ideas, or collaboration opportunities!
+
+📧 Email • 💼 LinkedIn • 💻 GitHub
+
+---
+
+✨ "Always learning, always building — one commit at a time!" ✨
