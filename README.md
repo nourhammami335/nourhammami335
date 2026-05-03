@@ -22,12 +22,13 @@ I'm Nour Hammami, a Software Developer and third-year student in Information Sys
 
 ## 🎓 Academic Journey
 
-| Information Systems Development
-|-----------------------------------|----------------------------------------|
-| Institution: ISET Charguia (3rd Year) | Institution: (Next step) |
-| Focus: Full-stack development | Focus: Advanced software architecture |
-| Web & mobile apps • Database design • Backend development | System design • Clean architecture • Best practices |
-
+| 🎓 **Information Systems Development** | ✨ **Next Chapter** |
+|:--------------------------------------|:-------------------|
+| 🏫 **ISET Charguia** (3rd Year) | 🎯 **Advanced Software Architecture** |
+| 💻 Full-stack development | 🏗️ System design & Clean architecture |
+| 📱 Web & mobile apps | 📐 Design patterns & Best practices |
+| 🗄️ Database design | 🔧 Scalable & maintainable systems |
+| ⚙️ Backend development | 🚀 Performance optimization |
 ---
 
 ## 💼 Technical Stack
